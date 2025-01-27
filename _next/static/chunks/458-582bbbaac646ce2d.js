@@ -145,7 +145,7 @@
                           className: h().rightSection,
                           children: [
                             (0, r.jsx)("a", {
-                              href: "https://vram-ai-1.gitbook.io/vram.ai/",
+                              href: "https://docs.vramai.xyz/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,

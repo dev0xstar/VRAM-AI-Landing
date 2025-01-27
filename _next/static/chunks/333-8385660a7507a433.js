@@ -331,7 +331,7 @@
                 (0, r.jsx)(c.z, {
                   className: m().cta,
                   arrow: !0,
-                  href: "https://vram-ai-1.gitbook.io/vram.ai",
+                  href: "https://docs.vramai.xyz/",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: "Whitepaper",
