@@ -151,12 +151,10 @@
                               className: h().exploreProtocol,
                               children: "Explore Protocol",
                             }),
-                            (0, r.jsx)("button", {
-                              onClick: (e) => {
-                                e.preventDefault();
-                                let t = Math.floor(Math.random() * p.length);
-                                c(p[t]), n(!0);
-                              },
+                            (0, r.jsx)("a", {
+                              href: "https://app.vramai.xyz/",
+                              target: "_blank",
+                              rel: "noopener noreferrer",
                               className: h().exploreProtocol,
                               children: "Open App",
                             }),
