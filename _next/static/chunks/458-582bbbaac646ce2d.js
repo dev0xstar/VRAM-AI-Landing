@@ -348,7 +348,7 @@
         return (0, r.jsxs)(b.A, {
           theme: u,
           seo: {
-            title: "VRAM - AI Agents on Eth |",
+            title: "VRAM - AI Agents on ETH |",
             description:
               "VRAM is revolutionizing the blockchain space with AI-powered solutions on the Eth network, empowering users with innovative tools and technologies.",
             keywords: [
@@ -386,7 +386,7 @@
                       children: [
                         (0, r.jsx)("h2", {
                           className: (0, i.Z)("h3", S().subtitle),
-                          children: "A new era of AI Agents on Eth",
+                          children: "A new era of AI Agents on ETH",
                         }),
                         (0, r.jsx)("h2", {
                           className: (0, i.Z)("p-xs", S().tm),
