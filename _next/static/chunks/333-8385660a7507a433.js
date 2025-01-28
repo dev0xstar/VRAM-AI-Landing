@@ -415,7 +415,7 @@
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://www.dextools.io/app/en/token/vramai?t=1738049004206", 
+                      href: "https://www.dextools.io/app/en/token/vramai?t=1738049004206",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dextools",
