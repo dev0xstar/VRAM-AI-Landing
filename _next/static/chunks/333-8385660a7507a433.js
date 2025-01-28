@@ -415,14 +415,14 @@
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
+                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2f41072f838b935eebaf7075ee0fa1d352885a0c?t=1738059759257",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dextools",
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://dexscreener.com/ethereum/0x0123456789",
+                      href: "https://dexscreener.com/ethereum/0x2f41072f838b935eebaf7075ee0fa1d352885a0c",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dexscreener",
