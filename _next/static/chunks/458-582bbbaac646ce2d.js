@@ -145,11 +145,11 @@
                           className: h().rightSection,
                           children: [
                             (0, r.jsx)("a", {
-                              href: "https://docs.vramai.xyz/",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x64af8982049138d669C597C70544181Bf868b52E",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,
-                              children: "Explore Protocol",
+                              children: "Buy $VRAM",
                             }),
                             (0, r.jsx)("a", {
                               href: "https://app.vramai.xyz/",
@@ -715,67 +715,37 @@
                           (0, r.jsx)("thead", {
                             children: (0, r.jsxs)("tr", {
                               children: [
-                                (0, r.jsx)("th", { children: "Category" }),
-                                (0, r.jsx)("th", { children: "Allocation" }),
-                                (0, r.jsx)("th", { children: "Tokens" }),
-                                (0, r.jsx)("th", {
-                                  children: "Unlock Schedule",
-                                }),
-                                (0, r.jsx)("th", {
-                                  children: "Vesting Period",
-                                }),
+                                (0, r.jsx)("th", { children: "Tokenomics" }),
+                                (0, r.jsx)("th", { children: "" }),
+                                (0, r.jsx)("th", { children: "" }),
                               ],
                             }),
                           }),
                           (0, r.jsxs)("tbody", {
                             children: [
+
                               (0, r.jsxs)("tr", {
                                 children: [
-                                  (0, r.jsx)("td", { children: "Public Pool" }),
-                                  (0, r.jsx)("td", { children: "55%" }),
-                                  (0, r.jsx)("td", { children: "275,000,000" }),
-                                  (0, r.jsx)("td", { children: "100%" }),
-                                  (0, r.jsx)("td", { children: "No vesting" }),
+                                  (0, r.jsx)("td", {
+                                    children: "Liquidity Pool",
+                                  }),
+                                  (0, r.jsx)("td", { children: "LP Burned" }),
                                 ],
                               }),
                               (0, r.jsxs)("tr", {
                                 children: [
                                   (0, r.jsx)("td", {
-                                    children: "Ecosystem DAO",
+                                    children: "Tax",
                                   }),
-                                  (0, r.jsx)("td", { children: "35%" }),
-                                  (0, r.jsx)("td", { children: "175,000,000" }),
-                                  (0, r.jsx)("td", {
-                                    children: "50% + 50% vested",
-                                  }),
-                                  (0, r.jsx)("td", {
-                                    children: "3 years linear",
-                                  }),
+                                  (0, r.jsx)("td", { children: "0% Buy/Sell Tax" }),
                                 ],
                               }),
                               (0, r.jsxs)("tr", {
                                 children: [
                                   (0, r.jsx)("td", {
-                                    children: "DEX Liquidity",
+                                    children: "Ownership",
                                   }),
-                                  (0, r.jsx)("td", { children: "5%" }),
-                                  (0, r.jsx)("td", { children: "25,000,000" }),
-                                  (0, r.jsx)("td", { children: "100%" }),
-                                  (0, r.jsx)("td", { children: "No vesting" }),
-                                ],
-                              }),
-                              (0, r.jsxs)("tr", {
-                                children: [
-                                  (0, r.jsx)("td", {
-                                    children: "Airdrop & Community Growth",
-                                  }),
-                                  (0, r.jsx)("td", { children: "5%" }),
-                                  (0, r.jsx)("td", { children: "25,000,000" }),
-                                  (0, r.jsx)("td", { children: "100%" }),
-                                  (0, r.jsx)("td", {
-                                    children:
-                                      "Reward program for early supporter and tester. Multiple season.",
-                                  }),
+                                  (0, r.jsx)("td", { children: "Ownership Renounced" }),
                                 ],
                               }),
                               (0, r.jsxs)("tr", {
@@ -784,10 +754,7 @@
                                   (0, r.jsx)("td", {
                                     children: "Total Supply",
                                   }),
-                                  (0, r.jsx)("td", { children: "100%" }),
-                                  (0, r.jsx)("td", { children: "500,000,000" }),
-                                  (0, r.jsx)("td", {}),
-                                  (0, r.jsx)("td", {}),
+                                  (0, r.jsx)("td", { children: "1,000,000,000" }),
                                 ],
                               }),
                             ],

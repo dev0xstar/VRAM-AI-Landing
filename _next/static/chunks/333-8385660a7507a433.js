@@ -413,6 +413,20 @@
                       rel: "noopener noreferrer",
                       children: "Twitter",
                     }),
+                    (0, r.jsx)(d.r, {
+                      className: (0, i.Z)(m().link, "p-xs"),
+                      href: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                      children: "Dextools",
+                    }),
+                    (0, r.jsx)(d.r, {
+                      className: (0, i.Z)(m().link, "p-xs"),
+                      href: "https://dexscreener.com/ethereum/0x0123456789",
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                      children: "Dexscreener",
+                    }),
                   ],
                 }),
                 (0, r.jsxs)("p", {
