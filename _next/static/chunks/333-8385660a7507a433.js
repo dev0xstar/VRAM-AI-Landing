@@ -415,7 +415,7 @@
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2f41072f838b935eebaf7075ee0fa1d352885a0c?t=1738059759257",
+                      href: "https://www.dextools.io/app/en/token/vramai?t=1738049004206",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dextools",
