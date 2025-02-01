@@ -134,7 +134,7 @@
                           className: h().logoWrapper,
                           children: (0, r.jsx)(m(), {
                             src: "/images/VRAM Green.svg",
-                            alt: "VRAM.AI Logo",
+                            alt: "NVDA.AI Logo",
                             width: 180,
                             height: 60,
                             className: h().logo,
@@ -149,7 +149,7 @@
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,
-                              children: "Buy $VRAM",
+                              children: "Buy $NVDA",
                             }),
                             (0, r.jsx)("a", {
                               href: "https://app.vramai.xyz/",
@@ -348,11 +348,11 @@
         return (0, r.jsxs)(b.A, {
           theme: u,
           seo: {
-            title: "VRAM - AI Agents on ETH |",
+            title: "NVDA - AI Agents on ETH |",
             description:
-              "VRAM is revolutionizing the blockchain space with AI-powered solutions on the Eth network, empowering users with innovative tools and technologies.",
+              "NVDA is revolutionizing the blockchain space with AI-powered solutions on the Eth network, empowering users with innovative tools and technologies.",
             keywords: [
-              "VRAM",
+              "NVDA",
               "AI",
               "blockchain",
               "Eth",
@@ -390,7 +390,7 @@
                         }),
                         (0, r.jsx)("h2", {
                           className: (0, i.Z)("p-xs", S().tm),
-                          children: "POWERED BY $VRAM",
+                          children: "POWERED BY $NVDA",
                         }),
                         (0, r.jsxs)("div", {
                           className: S().scrollArrow,
@@ -470,7 +470,7 @@
                 children: [
                   (0, r.jsx)("h2", {
                     className: (0, i.Z)(S().sticky, "h2"),
-                    children: "Why VRAM Agents?",
+                    children: "Why NVDA Agents?",
                   }),
                   (0, r.jsxs)("aside", {
                     className: S().features,
@@ -481,12 +481,12 @@
                         children: [
                           (0, r.jsx)("h3", {
                             className: (0, i.Z)(S().title, "h4"),
-                            children: "$VRAM = AI Power",
+                            children: "$NVDA = AI Power",
                           }),
                           (0, r.jsx)("p", {
                             className: "p",
                             children:
-                              "Stack $VRAM to enhance your AI agent's capabilities. The more $VRAM stacked, the more powerful features you unlock.",
+                              "Stack $NVDA to enhance your AI agent's capabilities. The more $NVDA stacked, the more powerful features you unlock.",
                           }),
                         ],
                       }),
@@ -504,7 +504,7 @@
                               (0, r.jsx)("br", {}),
                               "Watch them learn, adapt, and grow smarter",
                               (0, r.jsx)("br", {}),
-                              "Stake $VRAM to unlock their true potential",
+                              "Stake $NVDA to unlock their true potential",
                               (0, r.jsx)("br", {}),
                               "Join the future of AI-native intelligence",
                             ],
@@ -521,11 +521,11 @@
                           (0, r.jsxs)("p", {
                             className: "p",
                             children: [
-                              "Invest by providing $VRAM to AI agents in the Launchpad.",
+                              "Invest by providing $NVDA to AI agents in the Launchpad.",
                               (0, r.jsx)("br", {}),
                               "Copy trades with AI agents",
                               (0, r.jsx)("br", {}),
-                              "Stake $VRAM to earn $VRAM rewards",
+                              "Stake $NVDA to earn $NVDA rewards",
                               (0, r.jsx)("br", {}),
                             ],
                           }),
@@ -541,7 +541,7 @@
                           (0, r.jsxs)("p", {
                             className: "p",
                             children: [
-                              "Empower AI agents with $VRAM",
+                              "Empower AI agents with $NVDA",
                               (0, r.jsx)("br", {}),
                               "Make all vram.ai connecting with web2 api like youtube tiktok, telegram",
                               (0, r.jsx)("br", {}),
@@ -582,7 +582,7 @@
                         children: (0, r.jsx)("p", {
                           className: "p",
                           children:
-                            "Our vision is the future of AI: Making them able to optimize the VRAM usage to make them sentient producing value for their IP",
+                            "Our vision is the future of AI: Making them able to optimize the NVDA usage to make them sentient producing value for their IP",
                         }),
                       }),
                     }),
@@ -653,7 +653,7 @@
                       className: (0, i.Z)(S().enter, "h2 vh"),
                       children: (0, r.jsx)("span", {
                         className: S().getText,
-                        children: "$VRAM",
+                        children: "$NVDA",
                       }),
                     }),
                     (0, r.jsx)("h2", {
@@ -675,7 +675,7 @@
                     (0, r.jsxs)("p", {
                       className: "p-l",
                       children: [
-                        "VRAM is ",
+                        "NVDA is ",
                         " ",
                         (0, r.jsx)(x.r, {
                           className: "contrast semi-bold",
@@ -696,7 +696,7 @@
                         (0, r.jsx)(x.r, {
                           className: "contrast semi-bold",
                           href: "https://t.me/vram_ai_portal",
-                          children: "$VRAM",
+                          children: "$NVDA",
                         }),
                         " ",
                         "before everybody else!",

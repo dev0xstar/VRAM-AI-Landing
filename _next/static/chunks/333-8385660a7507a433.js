@@ -199,7 +199,7 @@
                   name: "keywords",
                   content: i && i.length ? i.join(",") : i,
                 }),
-                (0, r.jsx)("meta", { name: "author", content: "VRAM" }),
+                (0, r.jsx)("meta", { name: "author", content: "NVDA" }),
                 (0, r.jsx)("meta", {
                   name: "referrer",
                   content: "no-referrer",
@@ -248,15 +248,15 @@
               ],
             }),
             (0, r.jsx)(o.PB, {
-              title: t || "VRAM - A Revolutionary AI Agent Launchpad on Eth",
+              title: t || "NVDA - A Revolutionary AI Agent Launchpad on Eth",
               description:
                 n ||
-                "VRAM is an AI agent Launchpad pushing the boundaries of artificial intelligence and machine learning on Eth.",
+                "NVDA is an AI agent Launchpad pushing the boundaries of artificial intelligence and machine learning on Eth.",
               openGraph: {
-                title: t || "VRAM - ",
+                title: t || "NVDA - ",
                 description:
                   n ||
-                  "VRAM is an AI agent Launchpad pushing the boundaries of artificial intelligence and machine learning on Eth.",
+                  "NVDA is an AI agent Launchpad pushing the boundaries of artificial intelligence and machine learning on Eth.",
                 type: "website",
                 locale: "en_US",
                 images: [
@@ -264,7 +264,7 @@
                     url: s || "/og-image.jpg",
                     width: 1200,
                     height: 630,
-                    alt: "VRAM",
+                    alt: "NVDA",
                   },
                 ],
                 defaultImageWidth: 1200,
@@ -294,7 +294,7 @@
                 (0, r.jsxs)("p", {
                   className: (0, i.Z)(m()["first-line"], "h1"),
                   children: [
-                    "VRAM is ",
+                    "NVDA is ",
                     (0, r.jsx)("br", {}),
                     (0, r.jsx)("span", {
                       className: "contrast",
@@ -311,7 +311,7 @@
                     }),
                     (0, r.jsx)("p", {
                       className: "h4",
-                      children: "The bigger the VRAM",
+                      children: "The bigger the NVDA",
                     }),
                   ],
                 }),
@@ -344,7 +344,7 @@
                 (0, r.jsxs)("div", {
                   className: m()["shameless-plug"],
                   children: [
-                    (0, r.jsx)("p", { className: "h4", children: "VRAM" }),
+                    (0, r.jsx)("p", { className: "h4", children: "NVDA" }),
                     (0, r.jsxs)("p", {
                       className: "p-s",
                       children: [
@@ -358,7 +358,7 @@
                 (0, r.jsxs)("p", {
                   className: (0, i.Z)(m()["first-line"], "h1"),
                   children: [
-                    "VRAM is ",
+                    "NVDA is ",
                     (0, r.jsx)("br", {}),
                     (0, r.jsx)("span", {
                       className: "contrast",
@@ -383,7 +383,7 @@
                       children: [
                         (0, r.jsx)("img", {
                           src: "/images/twitter-profile.jpg",
-                          alt: "VRAM CEO",
+                          alt: "NVDA CEO",
                           className: m().profileImage,
                         }),
                         (0, r.jsxs)("div", {
@@ -435,14 +435,14 @@
                     (0, r.jsx)("span", { children: " " }),
                     " ",
                     new Date().getFullYear(),
-                    " VRAM",
+                    " NVDA",
                   ],
                 }),
                 (0, r.jsx)(c.z, {
                   className: (0, i.Z)(m().cta, "hide-on-desktop"),
                   arrow: !0,
                   href: "https://t.me/vram_ai_portal",
-                  children: "Join VRAM.AI",
+                  children: "Join NVDA.AI",
                 }),
               ],
             }),
