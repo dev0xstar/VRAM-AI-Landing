@@ -145,14 +145,14 @@
                           className: h().rightSection,
                           children: [
                             (0, r.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x64af8982049138d669C597C70544181Bf868b52E",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,
                               children: "Buy $NVDA",
                             }),
                             (0, r.jsx)("a", {
-                              href: "https://app.vramai.xyz/",
+                              href: "https://app.nvdaai.xyz/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,
@@ -443,7 +443,7 @@
                           className: "p-s",
                           children: [
                             (0, r.jsx)(x.r, {
-                              href: "https://x.com/vram_ai_agent",
+                              href: "https://x.com/NVDA_AI_ETH",
                               className: "contrast",
                               children: "Follow us",
                             }),
@@ -455,7 +455,7 @@
                     (0, r.jsx)(n.z, {
                       className: S().cta,
                       arrow: !0,
-                      href: "https://t.me/vram_ai_portal",
+                      href: "https://t.me/NVDA_AI_ETH",
                       children: "Register for TGE",
                     }),
                   ],
@@ -679,7 +679,7 @@
                         " ",
                         (0, r.jsx)(x.r, {
                           className: "contrast semi-bold",
-                          href: "https://t.me/vram_ai_portal",
+                          href: "https://t.me/NVDA_AI_ETH",
                           children: "PRE-TGE",
                         }),
                         " ",
@@ -688,14 +688,14 @@
                         "Join our ",
                         (0, r.jsx)(x.r, {
                           className: "contrast semi-bold",
-                          href: "https://t.me/vram_ai_portal",
+                          href: "https://t.me/NVDA_AI_ETH",
                           children: "Telegram",
                         }),
                         " ",
                         "  to get ",
                         (0, r.jsx)(x.r, {
                           className: "contrast semi-bold",
-                          href: "https://t.me/vram_ai_portal",
+                          href: "https://t.me/NVDA_AI_ETH",
                           children: "$NVDA",
                         }),
                         " ",

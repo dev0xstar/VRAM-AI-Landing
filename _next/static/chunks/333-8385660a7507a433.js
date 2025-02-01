@@ -331,7 +331,7 @@
                 (0, r.jsx)(c.z, {
                   className: m().cta,
                   arrow: !0,
-                  href: "https://docs.vramai.xyz/",
+                  href: "https://docs.nvdaai.xyz/",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: "Whitepaper",
@@ -403,26 +403,26 @@
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://t.me/vram_ai_portal",
+                      href: "https://t.me/NVDA_AI_ETH",
                       children: "Telegram",
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://x.com/vram_ai_agent",
+                      href: "https://x.com/NVDA_AI_ETH",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Twitter",
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://www.dextools.io/app/en/token/vramai?t=1738049004206",
+                      href: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dextools",
                     }),
                     (0, r.jsx)(d.r, {
                       className: (0, i.Z)(m().link, "p-xs"),
-                      href: "https://dexscreener.com/ethereum/0x2f41072f838b935eebaf7075ee0fa1d352885a0c",
+                      href: "https://dexscreener.com/ethereum/0x0123456789",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: "Dexscreener",
@@ -441,7 +441,7 @@
                 (0, r.jsx)(c.z, {
                   className: (0, i.Z)(m().cta, "hide-on-desktop"),
                   arrow: !0,
-                  href: "https://t.me/vram_ai_portal",
+                  href: "https://t.me/NVDA_AI_ETH",
                   children: "Join NVDA.AI",
                 }),
               ],
