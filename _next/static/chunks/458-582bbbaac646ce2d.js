@@ -145,7 +145,7 @@
                           className: h().rightSection,
                           children: [
                             (0, r.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcd79162Bd8eC508098F86935f30502B5D1260f19",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className: h().exploreProtocol,
